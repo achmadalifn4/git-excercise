@@ -1,1 +1,2 @@
 this is content of file1.txt
+this is new line of file1.txt
